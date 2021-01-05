@@ -16,7 +16,7 @@
   "dependencies": {
     "@babel/runtime": "^7.4.3",
     "@babel/runtime-corejs3": "^7.4.3",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "core-js": "^3.0.1",
     "echarts": "^4.2.1",
     "element-ui": "^2.7.2",
